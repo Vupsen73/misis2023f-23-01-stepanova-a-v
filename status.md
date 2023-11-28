@@ -1,3 +1,4 @@
+CHECK: 20231128-203515
 ERROR: file codeforces.id is absent
 ERROR: invalid file name 1352A
 ERROR: invalid file name 263A

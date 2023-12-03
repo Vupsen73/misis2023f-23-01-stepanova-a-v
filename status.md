@@ -1,4 +1,4 @@
-CHECK: 20231128-203515
+CHECK: 20231203-183940
 ERROR: file codeforces.id is absent
 ERROR: invalid file name 1352A
 ERROR: invalid file name 263A
@@ -12,3 +12,6 @@ ERROR: file prj.test/CMakeLists.txt is absent
 ERROR: file prj.lab/complex/CMakeLists.txt is absent
 ERROR: file prj.lab/rational/CMakeLists.txt is absent
 ERROR: CMake generator failed
+STATUS: lab complex - skipped
+STATUS: lab rational - skipped
+STATUS: lab dynarr - skipped

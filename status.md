@@ -1,5 +1,6 @@
-CHECK: 20231209-190043
+CHECK: 20231211-080646
 OK: file codeforces.id is correct
+ERROR: invalid file name 1330A
 ERROR: invalid file name 1352A
 ERROR: invalid file name 1872A
 ERROR: invalid file name 263A

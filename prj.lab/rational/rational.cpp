@@ -1,6 +1,3 @@
-//
-// Created by anfir on 25.12.2023.
-//
 #include <rational/rational.hpp>
 
 #include <stdexcept>

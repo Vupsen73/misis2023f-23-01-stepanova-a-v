@@ -1,4 +1,3 @@
-// Created by anfir on 25.12.2023.
 #include <complex/complex.hpp>
 
 Complex Complex::operator-() const noexcept { return Complex(-re, -im); }

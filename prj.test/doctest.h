@@ -1,7 +1,3 @@
-//
-// Created by anfir on 25.12.2023.
-//
-
 #ifndef MISIS2023F_23_01_STEPANOVA_A_V_DOCTEST_H
 #define MISIS2023F_23_01_STEPANOVA_A_V_DOCTEST_H
 
